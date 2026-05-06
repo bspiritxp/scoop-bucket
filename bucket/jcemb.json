@@ -1,18 +1,18 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Local-first CLI for Markdown vector search",
     "homepage": "https://github.com/bspiritxp/jcemb",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bspiritxp/jcemb/releases/download/v0.2.0/jcemb_v0.2.0_windows_amd64.zip",
-            "hash": "3d9e89e2ce44d473f08cfd1b70b767d76db6ff53a74dde96916bc3fbca246f48",
-            "extract_dir": "jcemb_v0.2.0_windows_amd64"
+            "url": "https://github.com/bspiritxp/jcemb/releases/download/v0.3.0/jcemb_v0.3.0_windows_amd64.zip",
+            "hash": "923aa0049d91f0f2d3bc8d48d180997bbf012582c665e498c5c73cced41ac5e7",
+            "extract_dir": "jcemb_v0.3.0_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.com/bspiritxp/jcemb/releases/download/v0.2.0/jcemb_v0.2.0_windows_arm64.zip",
-            "hash": "6919905a97acce8581fa337fe3139784b8536fa7d11379f39f6f250b609b45af",
-            "extract_dir": "jcemb_v0.2.0_windows_arm64"
+            "url": "https://github.com/bspiritxp/jcemb/releases/download/v0.3.0/jcemb_v0.3.0_windows_arm64.zip",
+            "hash": "4c1d6394233fbfb1ac3ec759e79b546759dbbd8e07c5b9e089cab1a614e17b3c",
+            "extract_dir": "jcemb_v0.3.0_windows_arm64"
         }
     },
     "bin": "jcemb.exe",
